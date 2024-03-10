@@ -1,5 +1,4 @@
 # SEMANAS 01 _ 02 
-# Comparación de los lenguajes de programación JAVA, PYTHON y C 
 # Operaciones Básicas:
 # 1. Realiza la suma, resta, multiplicación y división de 
 
